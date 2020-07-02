@@ -26,8 +26,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        storageRef = storage.getReference("uploads")
-        dbRef = db.collection("uploads")
+        storageRef = storage.getReference("uploads") //gambar akan diletakkan di folder uploads
+        dbRef = db.collection("uploads") // database akan diletakkan di collection uploads
 
         btn_pick_image.setOnClickListener {
             //CropImage library
@@ -84,6 +84,7 @@ class MainActivity : AppCompatActivity() {
             }
     }
 
+    //Copy paste dari dokumentasi library Image Cropper
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
         if (requestCode === CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE) {

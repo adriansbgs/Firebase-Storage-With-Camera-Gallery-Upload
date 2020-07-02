@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "921927658917",
+    "firebase_url": "https://resultgame-a1b5d.firebaseio.com",
+    "project_id": "resultgame-a1b5d",
+    "storage_bucket": "resultgame-a1b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921927658917:android:29048971a11bd9e4d14c4c",
+        "android_client_info": {
+          "package_name": "com.example.latihannotificationmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921927658917-ah97ae8uuv7eldmoeavkefj86tdt1k4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihannotificationmenu",
+            "certificate_hash": "64111fa770933dc299671a8bdf4da2f4519d616d"
+          }
+        },
+        {
+          "client_id": "921927658917-j0lppv3p5flsv38tuao40t348s0mplfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOKcPwFJwkMy0grLoX1EuxuMrH3LuKuYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921927658917-j0lppv3p5flsv38tuao40t348s0mplfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921927658917:android:afcb2ed7b3b81234d14c4c",
+        "android_client_info": {
+          "package_name": "com.ftw.firebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921927658917-r191c291nl8ah3ur9fdn8cd175di5a4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftw.firebaseupload",
+            "certificate_hash": "64111fa770933dc299671a8bdf4da2f4519d616d"
+          }
+        },
+        {
+          "client_id": "921927658917-j0lppv3p5flsv38tuao40t348s0mplfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOKcPwFJwkMy0grLoX1EuxuMrH3LuKuYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921927658917-j0lppv3p5flsv38tuao40t348s0mplfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921927658917:android:05a5f4b08fec9447d14c4c",
+        "android_client_info": {
+          "package_name": "com.ftw.resultgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921927658917-5vrc5iuemqt4jtsn0r9r04cjsr7jl0nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ftw.resultgame",
+            "certificate_hash": "64111fa770933dc299671a8bdf4da2f4519d616d"
+          }
+        },
+        {
+          "client_id": "921927658917-j0lppv3p5flsv38tuao40t348s0mplfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOKcPwFJwkMy0grLoX1EuxuMrH3LuKuYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921927658917-j0lppv3p5flsv38tuao40t348s0mplfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
